@@ -1,6 +1,6 @@
 # Unity Projectors
  
-<img src="/1.jpg?raw=true" width="600"/>
+<img src="/1.png?raw=true" width="600"/>
 
 ## Contact
 
